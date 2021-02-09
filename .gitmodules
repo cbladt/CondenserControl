@@ -1,0 +1,6 @@
+[submodule "FcknSmpl"]
+	path = FcknSmpl
+	url = git@github.com:cbladt/FcknSmpl.git
+[submodule "etl"]
+	path = etl
+	url = git@github.com:ETLCPP/etl.git
