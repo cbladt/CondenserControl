@@ -1,12 +1,11 @@
 #include <main.h>
 
-#include <FcknSmpl/ThreadSafe/Queue.hpp>
+#include <FcknSmple/Protocol/AsyncNotifications.hpp>
 
 namespace
 {
 	void TheMainProxy()
 	{
-		FcknSmpl::ThreadSafe::Queue<int> q;
 
 		while (true)
 		{}
